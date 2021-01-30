@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_React", "ASP_React\ASP_React.csproj", "{EDA3D1B7-3BEA-4861-AB99-83B1B0ED2CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA3D1B7-3BEA-4861-AB99-83B1B0ED2CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA3D1B7-3BEA-4861-AB99-83B1B0ED2CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA3D1B7-3BEA-4861-AB99-83B1B0ED2CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA3D1B7-3BEA-4861-AB99-83B1B0ED2CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
